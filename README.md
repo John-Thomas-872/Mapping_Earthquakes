@@ -8,8 +8,6 @@ Using the index.html provided in the Earthquakes Challenge folder, the user will
 
 ![alt text](Earthquake_Challenge/static/images/initial_map.png)
 
-Earthquake_Challenge/static/images/all_earthquakes.png
-
 In the top right hand corner of the webpage, the user is given several different filtering options. This includes 3 types or base maps (streets, satellite, and dark mode), and 3 data layers (All Earthquakes, Tectonic Plate Lines, and Major Earthquakes above 4.5 magnitude).
 
 The image below shows the satellite imagery basemap. 
